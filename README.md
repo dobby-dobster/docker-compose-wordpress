@@ -10,7 +10,7 @@ Docker compose to create a wordpress deployment using official wordpress and mys
 
 #3 Then browse to http://localhost:8000 to complete wordpress setup.
 
-![logo](Screenshot.jpg)
+![logo](Screenshot.png)
 
 
 To destroy the containers issue:
